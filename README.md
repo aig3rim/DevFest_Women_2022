@@ -1,6 +1,6 @@
 # DevFest_Women_2022
 
-This repository is for a workshop organized during for Dev Fest Women 2022, Alamty.
+This repository is written for Dev Fest Women 2022, Almaty organized by Google Developers Group.
 
 `persona_analysis_starbucks.ipynb`contains a persona analysis for Starbuck's dataset using k-means clustering and SHAP.
 
