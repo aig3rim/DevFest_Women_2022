@@ -6,7 +6,7 @@ This repository is written for Dev Fest Women 2022, Almaty organized by Google D
 
 ## Introduction
 
-A [user persona](https://www.hotjar.com/blog/user-personas/) is a semi-fictional character based on your current (or ideal) customer. Personas can be created by talking to users and segmenting by various demographic and psychographic data to improve your product marketing. 
+A user persona is a semi-fictional character based on your current (or ideal) customer. Personas can be created by talking to users and segmenting by various demographic and psychographic data to improve your product marketing. 
 
 ### Business problem
 
